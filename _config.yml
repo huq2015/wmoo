@@ -7,9 +7,9 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
+title:            'HuQuan Home page'
 tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+description:      'A Sample blog using Jekyll Metro modify by Huquan'
 url:              ''
 baseurl:          ''
 
@@ -28,7 +28,7 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         '胡泉(HuQuan)'
 
 #Social Media links
 linkedin:       'https://ae.linkedin.com/in/olakara/'
